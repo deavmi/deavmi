@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: _deavmi on [BonoboNET]()_
 - 😄 Pronouns: Gotta stiffy uuuh
 - ⚡ Fun fact: I'm pretty smart
+
+[![Deavmi's github stats](https://github-readme-stats.vercel.app/api?username=deavmi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deavmi)](https://github.com/anuraghazra/github-readme-stats)
