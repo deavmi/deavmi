@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on _some networking projects_
 - 🤔 I’m looking for help with _a compiler perhaps_
 - 💬 Ask me about _Portuguese Mozambique_
-- 📫 How to reach me: _deavmi on [BonoboNET]()_
+- 📫 How to reach me: _deavmi on [BonoboNET](http://deavmi.assigned.network/projects/bonobonet)_
 - 😄 Pronouns: Gotta stiffy uuuh
 - ⚡ Fun fact: I'm pretty smart
 
