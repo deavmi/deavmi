@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with _documentation_
 - 💬 Ask me about _Portuguese Mozambique_
 - 📫 How to reach me: _deavmi on [BonoboNET](http://deavmi.assigned.network/projects/bonobonet)_
-- 😄 Pronouns: I don't play this game
-- ⚡ Fun fact: I'm pretty smart
+- ⚡ Fun fact: I studied at Universiteit Stellenbosch!
