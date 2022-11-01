@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: _deavmi on [BonoboNET](http://deavmi.assigned.network/projects/bonobonet)_
 - 😄 Pronouns: I don't play this game
 - ⚡ Fun fact: I'm pretty smart
-
-[![Deavmi's github stats](https://github-readme-stats.vercel.app/api?username=deavmi)](https://github.com/anuraghazra/github-readme-stats)
