@@ -1,9 +1,7 @@
 Tristan B. Velloza Kildaire
 ===========================
 
-<img src="https://deavmi.assigned.network/img/about_profile_picture.jpg" width="188" height="251" style="float:right;gap;margin-left:20px">
-<img src="https://deavmi.assigned.network/img/profile_pic_honors_grad.jpg" width="188" height="251" style="float:right;gap;margin-left:20px">
-
+<img src="https://deavmi.assigned.network/img/thanks_again/idaho.JPG" width="65%" height="65%" style="float:right;gap;margin-left:20px">
 
 I’m Tristan B. Kildaire (or deavmi on the Internet) and I’m a computer programmer. I love tinkering around with all the bits of software that my computer runs but typically more on the low-level sides of things. I’m really interested in how operating systems work as a whole and their components such as kernels, networking stacks, linking-loaders, IPC, paging, virtual memory, file-systems and the list goes on. There’s so much to learn from understanding these complex systems and each aspect of them never leaves me bored!
 
